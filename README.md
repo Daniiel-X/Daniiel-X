@@ -21,6 +21,7 @@ Feel free to reach out if you’re interested in discussing blockchain innovatio
 | [0G Guides](https://daniel-x.gitbook.io/daniel-x/0g/installing-the-node) | [Architecture 0G System](https://mirror.xyz/0x53Ae2e8C7a6d0d7f7D43AA510b74f365839D7288/xKSJPtRpFuCoA95kdLl8dI3PV8XmGL7_2LhkcTFgX5k) |
 | [Taiko Guides](https://daniel-x.gitbook.io/daniel-x/taiko/installing-the-node) | [Transaction Processing in 0G Storage According](https://mirror.xyz/0x53Ae2e8C7a6d0d7f7D43AA510b74f365839D7288/B2bDEi4dRgg0bk1uNxDRTYeJjj4gvJXgN5T14qsuiFU) |
 | [Massa Guides](https://daniel-x.gitbook.io/daniel-x/massa/installing-the-node) | [SubQuery SDK 4.0](https://mirror.xyz/0x53Ae2e8C7a6d0d7f7D43AA510b74f365839D7288/mD8hLeLO89o07Dp0Emy-9HkAoYcIeBVX4xmFQuXuAm0) |
+| [Router Core Guide](https://github.com/Daniiel-X/Router-Core) |  |
 
 ---
 
